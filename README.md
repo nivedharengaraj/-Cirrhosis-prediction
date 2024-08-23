@@ -1,2 +1,1 @@
-# my_firstrepo
-My newbie repo
+CIRRHOSIS PATIENT SURVIVAL PREDICTION
